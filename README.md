@@ -3,11 +3,6 @@
 CRUD table with flask and Google app engine (python)
 
 ## Demo : [https://flask-start.appspot.com](https://flask-start.appspot.com)
-![Image HOME](http://viellepeau.github.io/assets/img/home.png)
-![Image CONTACT LIST](http://viellepeau.github.io/assets/img/contact_list.png)
-![Image ADD CONTACT](http://viellepeau.github.io/assets/img/add_contact.png)
-![Image SIGNIN](http://viellepeau.github.io/assets/img/signin.png)
-
 
 # Resources
 
